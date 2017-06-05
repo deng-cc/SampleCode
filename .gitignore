@@ -1,0 +1,16 @@
+#idea
+*.iml
+*.ipr
+*.iws
+*.bak
+
+
+#common
+*.class
+
+
+#other
+*.md.bak
+
+#.idea
+/j2ee/servlet/listener/.idea/*
