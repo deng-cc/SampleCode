@@ -14,3 +14,4 @@
 
 #.idea
 /j2ee/servlet/listener/.idea/*
+/j2ee/servlet/filter/.idea/*
